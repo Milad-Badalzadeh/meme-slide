@@ -1,0 +1,42 @@
+html{
+    background-color: black;
+}
+
+h1{
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    color: rgb(222, 246, 6);
+    background-color: black;
+    text-transform: uppercase;
+}
+
+img{
+    border: 5px solid rgb(159, 255, 5);
+    width: 100%;
+    height: 200px;
+}
+
+div{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+P{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+}
+
+#pers{
+    font-family: 'Noto Sans Arabic', sans-serif;;
+}
+
+body{
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
